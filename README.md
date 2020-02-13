@@ -1,2 +1,2 @@
 # git-test
-git remote test 
+git remote test  
